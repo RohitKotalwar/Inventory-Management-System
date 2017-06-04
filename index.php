@@ -9,14 +9,17 @@ Inventory Management System</title>
 <form method=POST>
 <tr>
 <td>ADMIN</td>
-<td><input type="button" value="Admin" class="homebutton" id="btnHome" 
+<td><input type="button" value="Admin Login" class="homebutton" id="btnHome" 
 onClick="document.location.href='adminlogin.php'" /></td>
 </tr>
 <tr>
 <td>USER</td>
-<td><input type="button" value="User" class="homebutton" id="btnHome" 
+<td><input type="button" value="User Login" class="homebutton" id="btnHome" 
 onClick="document.location.href='userlogin.php'" /></td>
+<td><input type="button" value="User Signup" class="homebutton" id="btnHome" 
+onClick="document.location.href='usersignup.php'" /></td>
 </tr>
+
 
 </form>
 </table>
