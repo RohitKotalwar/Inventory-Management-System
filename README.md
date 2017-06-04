@@ -14,6 +14,7 @@ ROLES:
 -Checkout products – Admin decrease the quantity in the inventory, not remove from the listing.
 
 2. User
+-User can Signup.
 -View all products – Users can see the list of all the products available in the inventory.
 -Checkout products – Users can decrease the quantity in the inventory, not remove from the listing.
 
